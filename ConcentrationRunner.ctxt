@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ConcentrationRunner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayBoard()
+comment2.text=\n\ Clear\ the\ console\ and\ show\ the\ game\ board\n\ Tiles\ can\ either\ indicate\ the\ card\ is\ \ face\ up\ or\ face\ down\n
+comment3.params=n
+comment3.target=void\ wait(int)
+comment3.text=\n\ Wait\ n\ second\ before\ clearing\ the\ console\n
+comment4.params=
+comment4.target=void\ quitGame()
+comment4.text=\ \n\ User\ quits\ game\n
+numComments=5
